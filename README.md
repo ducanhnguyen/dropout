@@ -22,6 +22,8 @@ PyCharm 2018.3.4, jre 8, mac osx
 
 ### Experiments
 
+The original training set is divided into two parts: the training set (80%), the validation set (20%)
+
 <img src="https://github.com/ducanhnguyen/dropout/blob/master/img/accuracy.png" width="550">
 
 <img src="https://github.com/ducanhnguyen/dropout/blob/master/img/error.png" width="550">
